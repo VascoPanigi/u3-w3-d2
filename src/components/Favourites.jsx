@@ -26,7 +26,7 @@ const Favourites = () => {
         })
       ) : (
         <ListGroupItem>
-          <h3>No favourite companies bro...</h3>
+          <h3>No favourite companies...</h3>
         </ListGroupItem>
       )}
     </ListGroup>
